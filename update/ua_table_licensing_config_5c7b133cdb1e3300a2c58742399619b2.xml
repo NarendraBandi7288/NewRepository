@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 08:33:01</sys_created_on>
-        <sys_id>2229f6bcdb9a3300a2c587423996195a</sys_id>
+        <sys_id>5c7b133cdb1e3300a2c58742399619b2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_363067_samplegit_sampletable</sys_name>
         <sys_package display_value="SampleGit" source="x_363067_samplegit">c4b8fa7cdb9a3300a2c5874239961943</sys_package>
         <sys_policy/>
         <sys_scope display_value="SampleGit">c4b8fa7cdb9a3300a2c5874239961943</sys_scope>
-        <sys_update_name>ua_table_licensing_config_2229f6bcdb9a3300a2c587423996195a</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_5c7b133cdb1e3300a2c58742399619b2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-06-25 08:33:01</sys_updated_on>
     </ua_table_licensing_config>

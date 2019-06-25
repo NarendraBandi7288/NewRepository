@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 08:34:25</sys_created_on>
-        <sys_id>115972bcdb9a3300a2c587423996192c</sys_id>
+        <sys_id>d87b133cdb1e3300a2c58742399619a7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>no2</sys_name>
         <sys_package display_value="SampleGit" source="x_363067_samplegit">c4b8fa7cdb9a3300a2c5874239961943</sys_package>
         <sys_policy/>
         <sys_scope display_value="SampleGit">c4b8fa7cdb9a3300a2c5874239961943</sys_scope>
         <sys_update_name>sys_dictionary_x_363067_samplegit_sampletable_no2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-25 08:34:25</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-25 11:02:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
