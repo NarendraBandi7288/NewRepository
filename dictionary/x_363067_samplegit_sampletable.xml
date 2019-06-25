@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SampleTable" max_length="40" name="x_363067_samplegit_sampletable" type="collection">
+        <element label="no1" max_length="40" name="no1" type="string"/>
+        <element label="no2" max_length="40" name="no2" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
